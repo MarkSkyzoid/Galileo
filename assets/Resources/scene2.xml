@@ -1,0 +1,10 @@
+<scene gravity="0.0,-9.8,0.0">
+	<plane material = "static" position = "0.0,0.0,0.0" normal = "0.0,1.0,0.0"></plane>
+	<sphere material = "rubber" position = "0.0,2.0,0.0" normal = "0.0,1.0,0.0"></sphere>
+	<sphere material = "wood" position = "1.4,2.0,0.0" normal = "0.0,1.0,0.0" radius="2.0"></sphere>
+	<sphere material = "static" position = "2.8,2.0,0.0" normal = "0.0,1.0,0.0"></sphere>
+	<sphere material = "rubber" position = "5.0,4.0,0.0" normal = "0.0,1.0,0.0"></sphere>
+	<sphere material = "rubber" position = "5.0,10.0,0.0" normal = "0.0,1.0,0.0"></sphere>
+	<sphere material = "rubber" position = "7.0,10.0,0.0" normal = "0.0,1.0,0.0"></sphere>
+	<sphere material = "rubber" position = "8.0,10.0,0.0" normal = "0.0,1.0,0.0"></sphere>
+</scene>

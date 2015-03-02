@@ -1,0 +1,11 @@
+<scene>
+	<plane material = "static" position = "0.0,0.0,0.0" normal = "-0.3,0.8,0.0"></plane>
+	<box material = "metal" position = "0.0,2.0,0.0" normal = "0.0,1.0,0.0"></box>
+	<box material = "metal" position = "1.4,2.0,0.0" normal = "0.0,1.0,0.0"></box>
+	<box material = "metal" position = "2.8,2.0,0.0" normal = "0.0,1.0,0.0"></box>
+	
+	<box material = "metal" position = "0.7,3.0,0.0" normal = "0.0,1.0,0.0"></box>
+	<box material = "metal" position = "2.1,3.0,0.0" normal = "0.0,1.0,0.0"></box>
+	
+	<sphere material = "rubber" position = "5.0,4.0,0.0" normal = "0.0,1.0,0.0"></sphere>
+</scene>

@@ -1,0 +1,6 @@
+<scene>
+	<plane material = "static" position = "0.0,0.0,0.0" normal = "0.0,1.0,0.0"></plane>
+	<box material = "metal" position = "0.0,1.0,0.0" normal = "0.0,1.0,0.0"></box>
+		
+	<box material = "metal" position = "0.0,2.0,0.0" normal = "1.0,1.0,0.0" halfSize="4.0,0.2,1.0"></box>
+</scene>
